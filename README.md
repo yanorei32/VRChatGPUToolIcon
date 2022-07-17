@@ -1,4 +1,4 @@
 # VRChatGPUToolIcon
 
-This repository icon of https://github.com/njm2360/VRChatGPUTool.
+This repository is an icon of https://github.com/njm2360/VRChatGPUTool.
 
